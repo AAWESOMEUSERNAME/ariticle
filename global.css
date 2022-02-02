@@ -1,0 +1,80 @@
+@font-face {
+    font-family: 'EB Garamond italic';
+    src: url(./font/EB_Garamond_italic.ttf);
+    unicode-range: U+00-024F;
+}
+
+@font-face {
+    font-family: 'EB Garamond';
+    src: url(./font/EB_Garamond.ttf);
+    unicode-range: U+00-024F;
+}
+
+em {
+    font-family: 'EB Garamond italic';
+}
+
+:root {
+    --intro-bg: rgb(227 227 227);
+    --intro-color: rgb(86 86 86);
+}
+
+.intro {
+    color: var(--intro-color);
+    font-style: italic;
+    padding: 1em;
+    background-color: var(--intro-bg);
+}
+
+.page {
+    font-family: 'EB Garamond';
+}
+
+.h1 {
+    position: relative;
+    font-size: 3rem;
+    margin: 0.5em 0
+}
+
+.h2 {
+    position: relative;
+    font-size: 2.75rem;
+    margin: 0.5em 0
+}
+
+img {
+    float: right;
+}
+
+.date {
+    color: var(--intro-color);
+}
+
+.footer {
+    text-align: right;
+    padding: 2rem;
+}
+
+.p {
+    position: relative;
+    margin: 1em 0;
+}
+
+blockquote{
+    position: relative;
+    background: #e7e6e2;
+    margin: 0;
+    padding: 1em;
+}
+
+.origin {
+    width: calc(50% - 0.5rem);
+}
+
+.ch {
+    position: absolute;
+    left: calc(100% + 1rem);
+    top: 0;
+    width: 100%;
+    font-size: 0.9em;
+}
