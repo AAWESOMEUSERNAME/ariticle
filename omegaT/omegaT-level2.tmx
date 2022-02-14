@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx14.dtd">
+<tmx version="1.4">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="sentence" srclang="EN-US"/>
+  <body>
+<!-- Default translations -->
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>And we try to capture that feeling–the feeling Frankie Manning had plastered on his face every time he danced.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="Cyy" changedate="20220211T073712Z" creationid="Cyy" creationdate="20220211T073712Z">
+        <seg>我们试图抓住那种感觉，那种Frankie Manning跳舞时总是挂在脸上的感觉</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Conclusion: Making Noise</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="Cyy" changedate="20220211T072533Z" creationid="Cyy" creationdate="20220211T072533Z">
+        <seg>尾声：燥起来</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>I think it’s particularly easy for many modern dancers to fall into the trap that, if you know the moves, and try to emulate the way someone else does them, then you’ll be able express that same feeling–but that’s like looking at a map and a picture of a place and thinking you’ve been there.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="Cyy" changedate="20220211T074005Z" creationid="Cyy" creationdate="20220211T074005Z">
+        <seg>现代舞者很容易陷入一种误区：如果你知道了那些动作，并努力模仿别人做这个动作的方式，就可以表达相同的感觉。这相当于看着地图和照片就认为自己去过这个景点。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Most of us feel something very powerful when we listen to a great swing song, or watch Hellzapoppin.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="Cyy" changedate="20220211T073415Z" creationid="Cyy" creationdate="20220211T073415Z">
+        <seg>我们中的大部分人在听到一首好的摇摆乐或看《Hellzapoping》时会感受到一股强烈的冲击。</seg>
+      </tuv>
+    </tu>
+<!-- Alternative translations -->
+  </body>
+</tmx>

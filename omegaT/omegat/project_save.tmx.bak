@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx11.dtd">
+<tmx version="1.1">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="sentence" srclang="EN-US"/>
+  <body>
+<!-- Default translations -->
+    <tu>
+      <tuv lang="EN-US">
+        <seg>And we try to capture that feeling–the feeling Frankie Manning had plastered on his face every time he danced.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Cyy" changedate="20220211T073712Z" creationid="Cyy" creationdate="20220211T073712Z">
+        <seg>我们试图抓住那种感觉，那种Frankie Manning跳舞时总是挂在脸上的感觉</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Conclusion: Making Noise</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Cyy" changedate="20220211T072533Z" creationid="Cyy" creationdate="20220211T072533Z">
+        <seg>尾声：燥起来</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Most of us feel something very powerful when we listen to a great swing song, or watch Hellzapoppin.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Cyy" changedate="20220211T073415Z" creationid="Cyy" creationdate="20220211T073415Z">
+        <seg>我们中的大部分人在听到一首好的摇摆乐或看《Hellzapoping》时会感受到一股强烈的冲击。</seg>
+      </tuv>
+    </tu>
+<!-- Alternative translations -->
+  </body>
+</tmx>
