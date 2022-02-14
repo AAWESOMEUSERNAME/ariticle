@@ -6,6 +6,62 @@
 <!-- Default translations -->
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>A great original dancer might only know five basic moves, but they could do those moves all night long, and happily, because they could dance the shit out of those five moves.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="Administrator" changedate="20220214T163927Z" creationid="Administrator" creationdate="20220214T163927Z">
+        <seg>一个伟大的根源舞者可能只知道5中基础舞步，但他们可以用这5种步子开心的跳一整晚，因为他们能用这5种步子跳出各种花样。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>A look at the late-2000s dance floor shows me that a lot of people think a Charleston pulse should be danced to all swing music regardless of how smooth it is.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="Administrator" changedate="20220214T160425Z" creationid="Administrator" creationdate="20220214T155839Z">
+        <seg>2000年代晚期的片子里我感受到的是很多人认为跳任何摇摆乐的曲子时，不论曲子本身多么丝滑，都应该有查尔斯顿的律动。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>A shot of the early 2000s show me that a lot of people thought swing was perfectly recreating Hollywood movie dancers, or trying to be as musical as possible with a groove style.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="Administrator" changedate="20220214T155637Z" creationid="Administrator" creationdate="20220214T155616Z">
+        <seg>2000年代早期的片子给我的感觉是大部分人认为摇摆舞就是完美复刻好莱坞舞星，或者尽可能以一种华丽的风格表现音乐。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>A shot of the late 1990s shows me that most people thought swing dancing was a Gap ad: nothing but turns, kicks and aerials.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="Administrator" changedate="20220214T155013Z" creationid="Administrator" creationdate="20220214T155013Z">
+        <seg>1990年代的片子给我的感觉是大部分人认为摇摆舞就是Gap的广告那样：要么转圈、踢腿，要么空中舞步。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>All of which point to calculating our dancing based on what we see others do versus what we feel like doing when we ourselves listen to the music.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="Administrator" changedate="20220214T162438Z" creationid="Administrator" creationdate="20220214T162438Z">
+        <seg>这些现象最终表明，我们的舞蹈是所见他人跳舞方式与自己听到音乐时的感受相互拉扯的产物。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>And if you felt like making noise, you screamed or yelled or whooped or giggled.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="Administrator" changedate="20220214T164211Z" creationid="Administrator" creationdate="20220214T164211Z">
+        <seg>如果你想要搞出些声响，你就会尖叫呐喊大笑不止。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>And those five moves would all be done with a personal, individual style.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="Administrator" changedate="20220214T164016Z" creationid="Administrator" creationdate="20220214T164016Z">
+        <seg>并且这5种步子都会以一种个性化的方式呈现出来。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>And we try to capture that feeling–the feeling Frankie Manning had plastered on his face every time he danced.</seg>
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="Cyy" changedate="20220211T073712Z" creationid="Cyy" creationdate="20220211T073712Z">
@@ -14,10 +70,42 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>As a whole, our technique, our understanding of dance mechanics, and micro musicality is a lot better than the original dancers, and many of them have stated as much.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="Administrator" changedate="20220214T165149Z" creationid="Administrator" creationdate="20220214T165149Z">
+        <seg>整体来看，我们的技术，我们对跳舞原理的理解，以及围观音乐性，都比根源要好太多了，很多根源舞者也确实这么说过。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>As ideal as that sounds, I think I would be doing a disservice to ourselves and the original dancers if we treat them only with nostalgia: pretending times were automatically better then, and everything they did was better than now.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="Administrator" changedate="20220214T164953Z" creationid="Administrator" creationdate="20220214T164953Z">
+        <seg>我想如果仅站在恋旧的立场上看待根源舞者，假装过去的自然就是更好的，他们跳的就是比现在的舞者好，不论是对他们还是对我们都将是一种伤害。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>But I do think, like we all too often do in the modern times, we have adopted and progressed something without paying close attention to where it came from.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="Administrator" changedate="20220214T165359Z" creationid="Administrator" creationdate="20220214T165359Z">
+        <seg>但是我认为，现代生活中的我们在追求一些事物的同时，忽视了对其来源的探究。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Certainly this is not the case.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="Administrator" changedate="20220214T165003Z" creationid="Administrator" creationdate="20220214T165003Z">
+        <seg>我们当然不会这样。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>Conclusion: Making Noise</seg>
       </tuv>
-      <tuv xml:lang="ZH-CN" changeid="Cyy" changedate="20220211T072533Z" creationid="Cyy" creationdate="20220211T072533Z">
-        <seg>尾声：燥起来</seg>
+      <tuv xml:lang="ZH-CN" changeid="Administrator" changedate="20220214T165741Z" creationid="Cyy" creationdate="20220211T072533Z">
+        <seg>尾声：发出你的声响</seg>
       </tuv>
     </tu>
     <tu>
@@ -30,10 +118,66 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>If it wasn’t swing music, then you weren’t going to do swing to it.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="Administrator" changedate="20220214T164042Z" creationid="Administrator" creationdate="20220214T164042Z">
+        <seg>如果音乐不摇摆，你也不会跟着摇摆。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>It wasn’t what they did; it was the way they did it.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="Administrator" changedate="20220214T165640Z" creationid="Administrator" creationdate="20220214T165640Z">
+        <seg>重要的不是我们做了什么，而是我们如何去做。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>It’s beautifully simple and honest, and shows why certain aspects of the modern scene in the last ten years look different than the original dancers.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="Administrator" changedate="20220214T163605Z" creationid="Administrator" creationdate="20220214T163605Z">
+        <seg>这种精神散发着简单真挚的美，同时也展现出为什么在某些特定的方面，过去10年现代舞者会不同于根源舞者们。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>Most of us feel something very powerful when we listen to a great swing song, or watch Hellzapoppin.</seg>
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="Cyy" changedate="20220211T073415Z" creationid="Cyy" creationdate="20220211T073415Z">
         <seg>我们中的大部分人在听到一首好的摇摆乐或看《Hellzapoping》时会感受到一股强烈的冲击。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Perhaps the spirit of the original jitterbugs is as simple as that: All they knew about swing was what they heard when they stepped onto the dance floor.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="Administrator" changedate="20220214T162752Z" creationid="Administrator" creationdate="20220214T162752Z">
+        <seg>或许根源精神就是一句简单的话：踏入舞池时听到的是什么，他们的摇摆舞就是什么。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Though classes, counts, and moves can make us really great dancers, the spirit of the original jitterbug doesn’t originate there.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="Administrator" changedate="20220214T165605Z" creationid="Administrator" creationdate="20220214T165605Z">
+        <seg>尽管上课、计拍法以及各种动作可以让我们成为好的舞者，但是根源精神并不天然的存在于其中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>When I look back at the dance floors of the last ten years, I see a lot of things (A lot of which I saw in myself, as well).</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="Administrator" changedate="20220214T154844Z" creationid="Administrator" creationdate="20220214T154844Z">
+        <seg>回看过去十年的舞池，我看到了很多现象（一些同样发生在我身上的现象）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>旧时代舞者（尾声：燥起来）</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="Administrator" changedate="20220214T165733Z" creationid="Administrator" creationdate="20220214T165733Z">
+        <seg>旧时代舞者（尾声：发出你的声响）</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
