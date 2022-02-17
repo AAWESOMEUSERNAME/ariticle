@@ -1,0 +1,30 @@
+@font-face {
+    font-family: 'EB Garamond italic';
+    src: url(./font/EB_Garamond_italic.ttf);
+    unicode-range: U+00-024F;
+}
+
+@font-face {
+    font-family: 'EB Garamond';
+    src: url(./font/EB_Garamond.ttf);
+    unicode-range: U+00-024F;
+}
+
+body {
+    font-family: 'EB Garamond';
+}
+
+h1 {
+    font-size: 3rem;
+    margin: 0.5em 0
+}
+
+h2 {
+    font-size: 2.75rem;
+    margin: 0.5em 0
+}
+
+img {
+    float: left;
+    margin: 0 1em;
+}
