@@ -1,12 +1,12 @@
 @font-face {
     font-family: 'EB Garamond italic';
-    src: url(./font/EB_Garamond_italic.ttf);
+    src: url(../font/EB_Garamond_italic.ttf);
     unicode-range: U+00-024F;
 }
 
 @font-face {
     font-family: 'EB Garamond';
-    src: url(./font/EB_Garamond.ttf);
+    src: url(../font/EB_Garamond.ttf);
     unicode-range: U+00-024F;
 }
 
