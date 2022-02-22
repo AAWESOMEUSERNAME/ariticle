@@ -6,10 +6,26 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="EN-US">
+        <seg>(According to historian Marshall Stearns, the step most likely came from Ashanti African dance movement, however he provides no reason why and the step has little resemblance to any Ashanti dancing available online.) The characteristic of twisting steps, and the forward-and-back characteristics of the dance, however, are found in several cultures of Africa and the diaspora.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Cyy" changedate="20220222T084843Z" creationid="Cyy" creationdate="20220221T121651Z">
+        <seg>（根据历史学家Marshall Stearns的研究，这种舞步很可能来自于非洲西部阿善堤地区，但是他并没有解释为什么查尔斯顿舞步和现在网络上能找到的阿善堤舞蹈基本没有相似的地方。）然而，在一些非洲文化和流民文化中却发现了查尔斯顿标志性的扭脚腕的步子和前后移动。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>(Imagine the &lt;a0&gt;“Land of a Thousand Dances”&lt;/a0&gt; song, thirty or forty years earlier.)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Cyy" changedate="20220222T093122Z" creationid="Cyy" creationdate="20220222T093122Z">
+        <seg>（想象一下&lt;a0&gt;“Land of a Thousand Dances”&lt;/a0&gt; 这首歌向前推三四十年。）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(The song is the one that comes into your head when you hear the word &lt;a2&gt;“Charleston.”&lt;/a2&gt; It was composed by James P. Johnson, an African-American and one of early-20th-century's greatest masters of composition.)</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Cyy" changedate="20220218T074036Z" creationid="Cyy" creationdate="20220218T074036Z">
-        <seg>（那首歌就是你一听到“查尔斯顿”这个词马上就会出现在脑海里的《查尔斯顿》，作曲为 James P. Johnson —— 一位非裔美国人，20年代早期最伟大的作曲家之一。）</seg>
+      <tuv lang="ZH-CN" changeid="Cyy" changedate="20220222T100054Z" creationid="Cyy" creationdate="20220218T074036Z">
+        <seg>（那首歌就是你一听到&lt;a2&gt;“查尔斯顿”&lt;/a2&gt;这个词马上就会出现在脑海里的《查尔斯顿》，作曲为 James P. Johnson —— 一位非裔美国人，20年代早期最伟大的作曲家之一。）</seg>
       </tuv>
     </tu>
     <tu>
@@ -38,10 +54,34 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Frankie Manning and Cynthia Millman described it as a closer-embrace partnered Charleston with kicking heels behind more than swinging legs.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Cyy" changedate="20220222T094125Z" creationid="Cyy" creationdate="20220222T094125Z">
+        <seg>Frankie Manning和Cynthia Millman</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>How much of a fad it became is hard to underestimate in modern terms, we have experienced nothing that so completely engulfed all of American culture, Black, White, rich, poor — anyone could do the simple stylized step, as well as add to it a large number of other dance steps that went well to jazz.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Cyy" changedate="20220222T091945Z" creationid="Cyy" creationdate="20220222T091945Z">
+        <seg>身处现代，很难预估查尔斯顿曾经成为了何种风潮，毕竟我们从未体验过那样一种完全吞没了全美的文化——无论黑人或白人，无论贫穷或富有，任何人都可以做出这种简单的风格显著的舞步，并加入大量其他的很适合爵士乐的舞步。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>However, the step had been around awhile before that.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Cyy" changedate="20220218T074132Z" creationid="Cyy" creationdate="20220218T074132Z">
         <seg>然而，其实在这之前，一切便早已开始。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In late 1920s Harlem, New York, for instance, there were at least three partnered dances on the hardwood floors of jazz clubs: Harlem's own style of partnered Charleston, a second dance called &lt;s0&gt;The Breakaway&lt;/s0&gt;, and a third dance we don't know much about called &lt;s1&gt;The Collegiate&lt;/s1&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Cyy" changedate="20220222T094028Z" creationid="Cyy" creationdate="20220222T094028Z">
+        <seg>举个例子，1920年代晚期的纽约哈莱姆，爵士酒吧的木地板上至少就有三种双人舞：哈莱姆独有风格的双人查尔斯顿、开合舞（The Breakaway）以及另一种我们知之甚少的名为可乐鸡的舞蹈（The Collegiate，译者注：未找到合适的中文翻译词汇，故选用collegiate shag的空耳梗，手动狗头。） </seg>
       </tuv>
     </tu>
     <tu>
@@ -86,6 +126,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Made in Harlem</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Cyy" changedate="20220222T092224Z" creationid="Cyy" creationdate="20220222T092224Z">
+        <seg>哈莱姆（Harlem）制造</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Many regional, and soon nationwide, dances began to evolve to this music.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Cyy" changedate="20220218T070108Z" creationid="Cyy" creationdate="20220218T070108Z">
@@ -102,10 +150,50 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Once it hit Broadway in 1923, the Charleston step swept across the nation and came to define the jazz age, even though it was a mainstream infatuation for only a few years.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Cyy" changedate="20220222T090221Z" creationid="Cyy" creationdate="20220222T090221Z">
+        <seg>查尔斯顿在1923年的百老汇一经演出，便席卷了全国，并成为了爵士年代的标志，尽管这种主流的追捧仅持续了几年。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>People hear a new music form start to arise, and it's only a matter of time before they begin to move to it.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Cyy" changedate="20220217T095152Z" creationid="Cyy" creationdate="20220217T095152Z">
         <seg>每当一种新的音乐形式开始兴起，人们伴着这种音乐舞动就只是时间问题了。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>So the roots of the step, at least, have been around for &lt;e0&gt;long&lt;/e0&gt; time.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Cyy" changedate="20220222T085018Z" creationid="Cyy" creationdate="20220222T085018Z">
+        <seg>所以至少这种舞步的起源已经存在了相当长的时间了。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Charleston soon came in both a solo form and a partnered form.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Cyy" changedate="20220222T092135Z" creationid="Cyy" creationdate="20220222T092135Z">
+        <seg>很快，查尔斯顿同时发展出了单人跳法和双人跳法。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Charleston wasn't the only dance step being done to ragtime and jazz.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Cyy" changedate="20220222T092314Z" creationid="Cyy" creationdate="20220222T092314Z">
+        <seg>查尔斯顿并不是唯一一种跟着拉格泰姆和爵士跳的舞步。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>There were dozens of dances, solo and partnered, and fad dance steps from the 10s to the 40s.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Cyy" changedate="20220222T092824Z" creationid="Cyy" creationdate="20220222T092824Z">
+        <seg>单人舞、双人舞以及从1910年代到1940年代的时尚舞步，舞蹈的种类有很多。</seg>
       </tuv>
     </tu>
     <tu>
