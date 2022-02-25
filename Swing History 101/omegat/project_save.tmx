@@ -22,6 +22,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(Note, for instance, that “Lindbergh” is a long name.) So, one headline of the time read &lt;a0&gt;“Lindy Hops for St. Louis!”&lt;/a0&gt;, among other variations.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Cyy" changedate="20220224T084527Z" creationid="Cyy" creationdate="20220224T084408Z">
+        <seg>（注，“Lindbergh” 这名字确实有点长。）众多标题中，有一个是 &lt;a0&gt;“林迪在圣路易斯的飞跃！”（Lindy Hops for St. Louis!）&lt;/a0&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>(That part is not a myth.)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Cyy" changedate="20220224T082339Z" creationid="Cyy" creationdate="20220224T082339Z">
+        <seg>（这部分不是传说。）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(The song is the one that comes into your head when you hear the word &lt;a2&gt;“Charleston.”&lt;/a2&gt; It was composed by James P. Johnson, an African-American and one of early-20th-century's greatest masters of composition.)</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Cyy" changedate="20220222T100054Z" creationid="Cyy" creationdate="20220218T074036Z">
@@ -46,18 +62,18 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>For more than three hundred years in America, the three main harbors on the East Coast were New York, Boston, and Charleston, with constant traffic between the three.</seg>
+        <seg>But it &lt;e0&gt;is&lt;/e0&gt; a great story.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Cyy" changedate="20220221T080026Z" creationid="Cyy" creationdate="20220221T075935Z">
-        <seg>在超过300年的时间里，美国东海岸的3个主要港口城市分别是纽约、波士顿、查尔斯顿。这3个城市之间一直维持着稳定的交通往来。</seg>
+      <tuv lang="ZH-CN" changeid="Cyy" changedate="20220224T082148Z" creationid="Cyy" creationdate="20220224T082148Z">
+        <seg>但林迪的起源&lt;e0&gt;确实是&lt;/e0&gt;一个很棒的故事。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Frankie Manning and Cynthia Millman described it as a closer-embrace partnered Charleston with kicking heels behind more than swinging legs.</seg>
+        <seg>For more than three hundred years in America, the three main harbors on the East Coast were New York, Boston, and Charleston, with constant traffic between the three.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Cyy" changedate="20220222T094125Z" creationid="Cyy" creationdate="20220222T094125Z">
-        <seg>Frankie Manning和Cynthia Millman</seg>
+      <tuv lang="ZH-CN" changeid="Cyy" changedate="20220221T080026Z" creationid="Cyy" creationdate="20220221T075935Z">
+        <seg>在超过300年的时间里，美国东海岸的3个主要港口城市分别是纽约、波士顿、查尔斯顿。这3个城市之间一直维持着稳定的交通往来。</seg>
       </tuv>
     </tu>
     <tu>
@@ -74,6 +90,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="Cyy" changedate="20220218T074132Z" creationid="Cyy" creationdate="20220218T074132Z">
         <seg>然而，其实在这之前，一切便早已开始。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In 1927, Charles Lindbergh crossed the Atlantic on his famous flight.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Cyy" changedate="20220224T082325Z" creationid="Cyy" creationdate="20220224T082325Z">
+        <seg>1927年，Charles Lindbergh驾驶着他最爱的飞机飞跃了大西洋。</seg>
       </tuv>
     </tu>
     <tu>
@@ -114,6 +138,22 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="Cyy" changedate="20220218T081035Z" creationid="Cyy" creationdate="20220218T081035Z">
         <seg>这首歌以及这种舞蹈叫“查尔斯顿”并不是一个简单的巧合。Johnson早在1910年代为俱乐部里的舞者即兴伴奏时就已经看到过这种舞步 —— 大部分跳这种舞步的舞者都来自查尔斯顿（译者注：南卡罗莱纳州的一座城市），因此他称自己伴奏的那些曲子为“查尔斯顿曲”。其他来自南卡罗莱纳州的黑人表演者也经常跳一些类似的舞步，他们称之为“吉奇步（geechie）”或“嘎勒步（gullah）”，一种来自查尔斯顿和南卡罗莱纳低地（Lowcountry）的特殊黑人文化。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It's very important for newspapers to have short, poppy headlines; not only are they trying to catch the reader's eye, they're also trying to use the shortest words possible so that they fit on the page.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Cyy" changedate="20220224T083127Z" creationid="Cyy" creationdate="20220224T083127Z">
+        <seg>对各大报刊来说，为了吸睛，也为了适配版面，需要一个足够短也足够吸引人的标题。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Lindy's Hop</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Cyy" changedate="20220223T070553Z" creationid="Cyy" creationdate="20220223T061058Z">
+        <seg>林德的飞跃</seg>
       </tuv>
     </tu>
     <tu>
@@ -174,6 +214,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The Breakaway soon began incorporating partnered Charleston steps so that the two dances looked very similar, though the reason the Breakaway was named as such is very important: For a couple counts of music, the dancers would leave closed position (though still connected by at least one hand) before coming back together.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Cyy" changedate="20220223T060859Z" creationid="Cyy" creationdate="20220223T060859Z">
+        <seg>很快，开合舞中开始融入双人查尔斯顿的步子，这使得两种舞蹈看起来很类似，但开合舞本身的特点，也即是其名称的由来，依旧很重要：每隔两拍，舞者就会彼此分开（虽然仍然至少有一只手连接着），然后又重新回到彼此贴近的状态。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The Charleston soon came in both a solo form and a partnered form.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Cyy" changedate="20220222T092135Z" creationid="Cyy" creationdate="20220222T092135Z">
@@ -186,6 +234,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="Cyy" changedate="20220222T092314Z" creationid="Cyy" creationdate="20220222T092314Z">
         <seg>查尔斯顿并不是唯一一种跟着拉格泰姆和爵士跳的舞步。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>There is some mythology about the origin of the name Lindy Hop that has been upgraded to fact too often.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Cyy" changedate="20220224T082027Z" creationid="Cyy" creationdate="20220223T070429Z">
+        <seg>关于林迪舞名称的起源，有很多经常被认为是真实故事实则难以考证的传说。</seg>
       </tuv>
     </tu>
     <tu>
@@ -218,6 +274,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="Cyy" changedate="20220217T094857Z" creationid="Cyy" creationdate="20220217T094857Z">
         <seg>本文已于2018年和2019年进行过更新。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This was truly an innovation for this time, and would redefine what partnership dancing could mean.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Cyy" changedate="20220223T061019Z" creationid="Cyy" creationdate="20220223T061019Z">
+        <seg>这在当时是革命性的，重新定义了双人舞的形式。</seg>
       </tuv>
     </tu>
     <tu>
